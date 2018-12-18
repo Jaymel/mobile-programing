@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/all_route"
+        android:title="전체"/>
+    <item
+        android:id="@+id/route1"
+        android:title="1호선"/>
+    <item
+        android:id="@+id/route2"
+        android:title="2호선"/>
+    <item
+        android:id="@+id/route3"
+        android:title="3호선"/>
+    <item
+        android:id="@+id/route4"
+        android:title="4호선"/>
+    <item
+        android:id="@+id/route5"
+        android:title="5호선"/>
+    <item
+        android:id="@+id/route6"
+        android:title="6호선"/>
+    <item
+        android:id="@+id/route7"
+        android:title="7호선"/>
+    <item
+        android:id="@+id/route8"
+        android:title="8호선"/>
+    <item
+        android:id="@+id/route9"
+        android:title="9호선"/>
+</menu>
